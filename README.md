@@ -1,5 +1,5 @@
 # starbucks-churn-analysis
-Predicting customer churn using synthetic Starbucks customer data.
+Predicting customer churn using synthetic Starbucks data and evaluating the model's accuracy with precision and recall.
 
 # Features
 * generates synthetic Starbucks customer data
