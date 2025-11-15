@@ -28,5 +28,5 @@ Predicting customer churn using synthetic Starbucks data and evaluating the mode
 3. Run analysis: python3 churn_analysis.py
 
 #Visual Graphs
-![Average Spend](Images/Average_Spend.png)
+![Average Spend](images/Average_Spend.png)
 
