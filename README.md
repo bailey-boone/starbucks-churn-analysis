@@ -10,6 +10,7 @@ Predicting customer churn using synthetic Starbucks data and evaluating the mode
 * generate_data.py — generates synthetic customer data
 * churn_analysis.py — analyzes data and builds a churn model
 * starbucks_customers.csv — generated customer dataset
+* images - Starbucks churn analysis visualizations (spending, visits, rewards)
 * README.md — project documentation
 
 # Key Insights
