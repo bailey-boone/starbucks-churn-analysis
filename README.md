@@ -31,3 +31,8 @@ Predicting customer churn using synthetic Starbucks data and evaluating the mode
 
 ![Average Spend](images/Average_Spend.png)
 
+This boxplot compares the average monthly spending of customers who churned versus those who stayed. The distributions are almost identical, showing that spending behavior does not significantly differ between the two groups. Key takeaway:  Average spend is not a useful predictor of churn.
+
+![Visits vs Rewards](images/visits_rewards.png)
+
+This scatter plot visualizes visit frequency and reward points while highlighting churned customers. Most churned customers cluster around lower visit counts, while high-frequency visitors rarely churn. Reward points do not show a strong pattern. Key takeaway: Low visit frequency is strongly associated with churn; rewards alone are not.
